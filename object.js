@@ -204,5 +204,3 @@ function erEmDundaj(find) {
   return b;
 }
 console.log(erEmDundaj(students));
-
-//afafdsvsvadcfa
